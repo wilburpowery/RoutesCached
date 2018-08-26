@@ -29,5 +29,5 @@ public function cards()
 
 **TODO:**
 
-- Show is your cache is out of date
+- Show if the cached routes are outdated
 - Click a button to cache your routes
