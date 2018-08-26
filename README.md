@@ -26,3 +26,8 @@ public function cards()
     ];
 }
 ```
+
+**TODO:**
+
+- Show is your cache is out of date
+- Click a button to cache your routes
