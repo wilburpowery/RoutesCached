@@ -2,7 +2,7 @@
 
 namespace Wilburpowery\RoutesCached\Http\Controllers;
 
-use App\Http\Controllers\Controller;
+use Illuminate\Routing\Controller;
 
 class AreRoutesCached extends Controller
 {
