@@ -34,7 +34,6 @@ export default {
         checkRouteCached() {
             Nova.request().get('/nova-vendor/routes-cached/endpoint')
                 .then(response => {
-                    console.log(response);
                     this.routesCached = response.data.routesAreCached;
                 });
         },
